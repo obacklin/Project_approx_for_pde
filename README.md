@@ -7,4 +7,5 @@ Avalible models:
   - DeepONet trained on a threshold field
   - PINN model for a PDE; -D.(aDu) = f
   - PCA-Net Implementation for both a lognormal and a threshold field
+
 To run the models you need to first generate a dataset. This can be done using the files in the DataGen folder.
