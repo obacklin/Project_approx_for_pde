@@ -22,3 +22,5 @@ Available models:
   - PCA-Net implementation for both a lognormal and a threshold field
 
 To run the models, you first need to generate a dataset. This can be done using the files in the DataGen folder.
+
+<img src="DeepOnetApprox1.png" alt="My figure" width="70%">
