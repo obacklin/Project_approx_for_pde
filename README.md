@@ -1,6 +1,6 @@
 # Project_approx_for_pde
 This code is not intended for "production". It was written specifically for my machine during my thesis project. 
-If you intened to try it out for yourself you likely need to change stuff related to I/O, i.e location of saved files etc.
+If you intend to try it out for yourself you likely need to change stuff related to I/O, i.e location of saved files etc.
 
 All the programs solve various instances of the Darcy problem.
 Avalible models:
