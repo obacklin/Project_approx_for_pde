@@ -1,1 +1,1 @@
-# Project_approx_for_pde
+# Project Approximation Theory for PDE
